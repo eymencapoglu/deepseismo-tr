@@ -1,0 +1,8 @@
+numpy
+torch
+xgboost
+seisbench
+matplotlib
+colorama
+requests
+urllib3
